@@ -1,0 +1,22 @@
+
+; <<>> DiG 9.11.5-P4-5.1ubuntu2.1-Ubuntu <<>> apple.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19432
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;apple.com.			IN	A
+
+;; ANSWER SECTION:
+apple.com.		1140	IN	A	17.172.224.47
+apple.com.		1140	IN	A	17.178.96.59
+apple.com.		1140	IN	A	17.142.160.59
+
+;; Query time: 13 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53)
+;; WHEN: dom dic 29 21:16:35 CET 2019
+;; MSG SIZE  rcvd: 86
+
