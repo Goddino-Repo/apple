@@ -1,0 +1,121 @@
+                                             0===============================================0
+                                             ||                                             ||
+                    (00)                     ||  * Botnet -> [DDoS]:                        ||
+       (O)_  (O)   '----'   (O)  _(O)        ||      /Zombies : HTTP GET bots               ||
+           |  |.''.( xx ).''.|  |            ||      /Droids  : HTTP GET (+params) bots     ||
+           .'.'    |'..'|    '.'.            ||      /Aliens  : HTTP POST bots              ||
+    .-.  .' /'--.__|_00_|__.--'\ '.  .-.     ||      /UCAVs   : Web Abusing bots            ||
+   (O).)-|0|  \  x | ## |x   /  |0|-(.(O)    ||      /X-RPCs  : XML-RPC bots                ||
+    `-'  '-'-._'-./ -00- \.-'_.-'-'  `-'     ||      /DBSTRESS: HTTP DB attack              ||
+       _ | ||  '-.___||___.-'  || | _        ||      /SPRAY   : TCP-SYN reflector           ||
+    .' _ | ||==O |   __   | O==|| | _ '.     ||      /SMURF   : ICMP echo flooder           ||
+   / .' ''.|  || | /_00_\ | ||  |.'' '. \    ||      /TACHYON : DNS amplificator            ||
+   | '###  |  =| | ###### | |=  |' ###  |    ||                                             ||
+   | |(0)| '.  0\||__**_ ||/0  .' |(0)| |    ||  * Close Combat -> [DoS]:                   ||
+   \ '._.'   '.  | \_##_/ |  .'   '._.' /    ||      /LOIC    : Fast HTTP requests          ||
+    '.__ ____0_'.|__'--'__|.'_0____ __.'     ||      /LORIS   : Slow HTTP requests          ||
+   .'_.-|                          |-._'.    ||      /UFOSYN  : TCP-SYN flooder             ||
+                                             ||      /XMAS    : TCP-XMAS flooder            ||
+   + Class: UFONet / ViPR404+ (model F) +    ||      /NUKE    : TCP-STARVATION attack       ||
+                                             ||                                             ||
+                                             0|=============================================|0
+
+=========================================================================== 
+
+888     888 8888888888 .d88888b.  888b    888          888    
+888     888 888        d88P Y888b 8888b   888          888    
+888     888 888       888     888 88888b  888          888    
+888     888 8888888   888     888 888Y88b 888  .d88b.  888888 
+888     888 888       888     888 888 Y88b888 d8P  Y8b 888    
+888     888 888       888     888 888  Y88888 88888888 888    
+Y88b. .d88P 888       Y88b. .d88P 888   Y8888 Y8b.     Y88b.  
+ 'Y88888P'  888        'Y88888P'  888    Y888  'Y8888   'Y8888
+
+{(D)enial(OF)Fensive(S)ervice[ToolKit]}-{by_(io=psy+/03c8.net)} 
+
+===========================================================================
+
+[AI] Inspecting target to find the best place to attack... SSssh!
+
+======================
+
++Style (.css) found: /ac/globalnav/5/en_US/styles/ac-globalnav.built.css
+(Size: 101975 Bytes)
+------------
++Style (.css) found: /ac/localnav/5/styles/ac-localnav.built.css
+(Size: 85342 Bytes)
+------------
++Style (.css) found: /ac/globalfooter/5/en_US/styles/ac-globalfooter.built.css
+(Size: 45454 Bytes)
+------------
++Style (.css) found: /wss/fonts?families=SF+Pro,v2|SF+Pro+Icons,v1" type="text/css
+[Error] [AI] Unable to retrieve info from Style -> [Discarding!]
+(Size: 0 Bytes)
+------------
++Style (.css) found: /v/home/er/built/styles/main.built.css
+(Size: 854321 Bytes)
+------------
++Style (.css) found: /ac/ac-films/6.2.0/styles/modal.css
+(Size: 97363 Bytes)
+------------
++Script (.js) found: /metrics/target/scripts/1.0/at.js
+(Size: 77264 Bytes)
+------------
++Script (.js) found: /v/home/er/built/scripts/head.built.js
+(Size: 53172 Bytes)
+------------
++Script (.js) found: /ac/globalnav/5/en_US/scripts/ac-globalnav.built.js
+(Size: 137324 Bytes)
+------------
++Script (.js) found: /metrics/ac-analytics/2.8.0/scripts/ac-analytics.js
+(Size: 232541 Bytes)
+------------
++Script (.js) found: /ac/globalfooter/5/en_US/scripts/ac-globalfooter.built.js
+(Size: 9005 Bytes)
+------------
++Script (.js) found: /ac/localeswitcher/2/en_US/scripts/localeswitcher.built.js
+(Size: 199191 Bytes)
+------------
++Script (.js) found: /v/home/er/built/scripts/main.built.js
+(Size: 199093 Bytes)
+------------
++Script (.js) found: /ac/ac-films/6.2.0/scripts/autofilms.built.js
+(Size: 368739 Bytes)
+------------
++Script (.js) found: /metrics/data-relay/1.1.4/scripts/data-relay.js
+(Size: 15652 Bytes)
+------------
++Script (.js) found: /metrics/data-relay/1.1.4/scripts/auto-relay.js
+(Size: 197 Bytes)
+------------
++Webpage (.html) found: /legal/internet-services/terms/site.html
+(Size: 58449 Bytes)
+------------
+
+================================================================================
+Total objects found: 17
+--------------------
+images: 0
+.mov  : 0
+.jsp  : 0
+.avi  : 0
+.html : 1
+.mpg  : 0
+.asp  : 0
+.mp3  : 0
+.js   : 10
+.ogv  : 0
+.wmv  : 0
+.css  : 6
+.mpeg : 0
+.xml  : 0
+.php  : 0
+.txt  : 0
+.webm : 0
+.ogg  : 0
+.swf  : 0
+--------------------
+================================================================================
+=Biggest File: https://www.apple.com//v/home/er/built/styles/main.built.css
+================================================================================
+
